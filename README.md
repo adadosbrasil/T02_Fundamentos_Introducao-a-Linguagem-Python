@@ -8,3 +8,4 @@ Na segunda temporada de vídeo aulas do canal [Análise de Dados Brasil](https:/
 - [T02E04 - Inputs do Usuário](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E04)
 - [T02E05 - Tipos Primitivos](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E05)
 - [T02E06 - Formatando a Saída de Dados](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E06)
+- [T02E07 - Operadores Relacionais](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E07)
