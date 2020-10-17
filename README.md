@@ -11,3 +11,4 @@ Na segunda temporada de vídeo aulas do canal [Análise de Dados Brasil](https:/
 - [T02E07 - Operadores Relacionais](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E07)
 - [T02E08 - Estruturas Condicionais I](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E08)
 - [T02E09 - Estruturas Condicionais II - Estruturas Aninhadas](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E09)
+- [T02E10 - Estruturas Condicionais III - Estruturas Com ELIF](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E10)
