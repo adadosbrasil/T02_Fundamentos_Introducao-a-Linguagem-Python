@@ -16,3 +16,4 @@ Na segunda temporada de vídeo aulas do canal [Análise de Dados Brasil](https:/
 - [T02E12 - Trabalhando com Strings II](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E12)
 - [T02E13 - Trabalhando com Listas I](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E13)
 - [T02E14 - Trabalhando com Listas II](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E14)
+- [T02E15 - Trabalhando com Listas III](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E15)
