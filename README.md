@@ -19,3 +19,4 @@ Na segunda temporada de vídeo aulas do canal [Análise de Dados Brasil](https:/
 - [T02E15 - Trabalhando com Listas III](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E15)
 - [T02E16 - Trabalhando com Listas IV](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E16)
 - [T02E17 - Trabalhando com Tuplas I](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E17)
+- [T02E18 - Trabalhando com Tuplas II](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E18)
