@@ -20,3 +20,5 @@ Na segunda temporada de vídeo aulas do canal [Análise de Dados Brasil](https:/
 - [T02E16 - Trabalhando com Listas IV](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E16)
 - [T02E17 - Trabalhando com Tuplas I](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E17)
 - [T02E18 - Trabalhando com Tuplas II](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E18)
+- [T02E19 - Trabalhando com Tuplas III](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E19)
+- [T02E20 - Integrando Tuplas e Listas](https://github.com/adadosbrasil/T02_Fundamentos_Introducao-a-Linguagem-Python/tree/master/Aulas/T02E20)
